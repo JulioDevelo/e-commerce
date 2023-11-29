@@ -1,0 +1,163 @@
+[
+    {
+      "id": "r-1",
+      "titulo": "Outfit 01",
+      "imagen": "./img/ropa/r-1.jpg",
+      "categoria": {
+        "nombre": "Outfits",
+        "id": "outfits"
+      },
+      "precio": 12000
+    },
+    {
+      "id": "r-2",
+      "titulo": "Outfit 02",
+      "imagen": "./img/ropa/r-2.jpg",
+      "categoria": {
+        "nombre": "Outfits",
+        "id": "outfits"
+      },
+      "precio": 10000
+    },
+    {
+      "id": "r-3",
+      "titulo": "Outfit 03",
+      "imagen": "./img/ropa/r-3.jpg",
+      "categoria": {
+        "nombre": "Outfits",
+        "id": "outfits"
+      },
+      "precio": 9000
+    },
+    {
+      "id": "r-4",
+      "titulo": "Outfit 04",
+      "imagen": "./img/ropa/r-4.jpg",
+      "categoria": {
+        "nombre": "Outfits",
+        "id": "outfits"
+      },
+      "precio": 15000
+    },
+    {
+      "id": "r-5",
+      "titulo": "Outfit 05",
+      "imagen": "./img/ropa/r-5.jpg",
+      "categoria": {
+        "nombre": "Outfits",
+        "id": "outfits"
+      },
+      "precio": 8000
+    },
+    {
+      "id": "r-6",
+      "titulo": "Outfit 06",
+      "imagen": "./img/ropa/r-6.jpg",
+      "categoria": {
+        "nombre": "Outfits",
+        "id": "outfits"
+      },
+      "precio": 11000
+    },
+    {
+      "id": "r-7",
+      "titulo": "Outfit 07",
+      "imagen": "./img/ropa/r-7.jpg",
+      "categoria": {
+        "nombre": "Outfits",
+        "id": "outfits"
+      },
+      "precio": 17000
+    },
+    {
+      "id": "r-8",
+      "titulo": "Outfit 08",
+      "imagen": "./img/ropa/r-8.jpg",
+      "categoria": {
+        "nombre": "Outfits",
+        "id": "outfits"
+      },
+      "precio": 13000
+    },
+    {
+      "id": "mochila-1",
+      "titulo": "Mochila 01",
+      "imagen": "./img/ropa/mochila-1.jpg",
+      "categoria": {
+        "nombre": "Mochilas",
+        "id": "mochilas"
+      },
+      "precio": 4200
+    },
+    {
+      "id": "mochila-2",
+      "titulo": "Mochila 02",
+      "imagen": "./img/ropa/mochila-2.jpg",
+      "categoria": {
+        "nombre": "Mochilas",
+        "id": "mochilas"
+      },
+      "precio": 3500
+    },
+    {
+      "id": "mochila-3",
+      "titulo": "Mochila 03",
+      "imagen": "./img/ropa/mochila-3.jpg",
+      "categoria": {
+        "nombre": "Mochilas",
+        "id": "mochilas"
+      },
+      "precio": 3700
+    },
+    {
+      "id": "mochila-4",
+      "titulo": "Mochila 04",
+      "imagen": "./img/ropa/mochila-4.jpg",
+      "categoria": {
+        "nombre": "Mochilas",
+        "id": "mochilas"
+      },
+      "precio": 5000
+    },
+    {
+      "id": "zapatilla-1",
+      "titulo": "Zapatilla 01",
+      "imagen": "./img/ropa/zapatilla-1.jpg",
+      "categoria": {
+        "nombre": "Zapatillas",
+        "id": "zapatillas"
+      },
+      "precio": 4000
+    },
+    {
+      "id": "zapatilla-2",
+      "titulo": "Zapatilla 02",
+      "imagen": "./img/ropa/zapatilla-2.jpg",
+      "categoria": {
+        "nombre": "Zapatillas",
+        "id": "zapatillas"
+      },
+      "precio": 5700
+    },
+    {
+      "id": "zapatilla-3",
+      "titulo": "Zapatilla 03",
+      "imagen": "./img/ropa/zapatilla-3.jpg",
+      "categoria": {
+        "nombre": "Zapatillas",
+        "id": "zapatillas"
+      },
+      "precio": 8000
+    },
+    {
+      "id": "zapatilla-4",
+      "titulo": "Zapatilla 04",
+      "imagen": "./img/ropa/zapatilla-4.jpg",
+      "categoria": {
+        "nombre": "Zapatillas",
+        "id": "zapatillas"
+      },
+      "precio": 7000
+    }
+]
+  
